@@ -1,0 +1,43 @@
+<div class="video-images">
+  <img ng-src="{{img}}"
+       class="video"
+       ng-repeat="img in video.images"
+       ng-class="{active: mainImageUrl==img}">
+</div>
+
+<h1>{{video.name}}</h1>
+
+<p>{{video.description}}</p>
+
+<ul class="video-thumbs">
+  <li ng-repeat="img in video.images">
+    <img ng-src="{{img}}" ng-click="setImage(img)">
+  </li>
+</ul>
+
+<table class="details">
+  <tr>
+      <td>Date</td>
+      <td>{{video.date}}</td>
+  </tr>
+  <tr>
+      <td>Genres</td>
+      <td ng-repeat="genre in video.genres">{{genre}}</td>
+  </tr>
+  <tr>
+      <td>Réalisateur</td>
+      <td>{{video.director}}</td>
+  </tr>
+  <tr>
+      <td>Acteurs</td>
+      <td ng-repeat="star in video.stars">{{star}}</td>
+  </tr>
+  <tr>
+      <td>Note</td>
+      <td>{{video.rate}}</td>
+  </tr>
+  <tr>
+      <td>Narionnalité</td>
+      <td>{{video.nationality}}</td>
+  </tr>
+</table>

@@ -1,0 +1,27 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      Search: <input ng-model="query">
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+      </select>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="videos">
+        <li ng-repeat="video in videos | filter:query | orderBy:orderProp"
+            class="thumbnail video-listing">
+          <a href="#/videos/{{video.id}}" class="thumb"><img ng-src="{{video.imageUrl}}"></a>
+          <a href="#/videos/{{video.id}}">{{video.name}}</a>
+          <p>{{video.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,24 @@
+[
+    {
+        "age": 0, 
+        "id": "300", 
+        "imageUrl": "http://fr.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/36/26/41/18737112.jpg", 
+        "name": "300", 
+        "snippet": "Un film de combat de  dingue avec les spartiats"
+    }, 
+    {
+        "age": 1, 
+        "id": "que-justice-soit-faite", 
+        "imageUrl": "http://fr.web.img5.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/72/55/36/19593496.jpg", 
+        "name": "Law Abiding Citizen", 
+        "snippet": "The Next, Next Generation\n\nExperience the future with MOTOROLA XOOM, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    }, 
+    {
+        "age": 2, 
+        "carrier": "AT&amp;T", 
+        "id": "les-affranchis", 
+        "imageUrl": "http://fr.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/00/02/56/92/aff.jpg", 
+        "name": "Les Affranchis", 
+        "snippet": "MOTOROLA ATRIX 4G the world's most powerful smartphone."
+    }
+]

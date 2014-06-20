@@ -1,0 +1,25 @@
+{
+	"name": "300",
+    "date": "21/03/2007", 
+    "director": "Zack Snyder", 
+    "stars": [
+        "Gerard Butler", 
+        "Lena Headey", 
+        "Rodrigo Santoro"
+    ], 
+    "genres": [
+        "Péplum", 
+        "Action",
+        "Guerre",
+        "Historique"
+    ],
+    "images": [
+    	"http://icons.iconarchive.com/icons/vitorjapah/movie-dvd-cases/256/300-icon.png",
+    	"http://icons.iconarchive.com/icons/danzakuduro/english-movies-3/256/300-v20-icon.png",
+    	"http://icons.iconarchive.com/icons/danzakuduro/english-movies-3/256/300-v11-icon.png",
+    	"http://www.lalancelot.com/images/film_300_256x256.jpg"
+    ],
+    "rate": 7.8, 
+    "nationality": "Américain",
+    "description": "Adapté du roman graphique de Frank Miller, 300 est un récit épique de la Bataille des Thermopyles, qui opposa en l'an - 480 le roi Léonidas et 300 soldats spartiates à Xerxès et l'immense armée perse. Face à un invincible ennemi, les 300 déployèrent jusqu'à leur dernier souffle un courage surhumain ; leur vaillance et leur héroïque sacrifice inspirèrent toute la Grèce à se dresser contre la Perse, posant ainsi les premières pierres de la démocratie."
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Les Affranchis",
+    "date": "20/06/2008", 
+    "director": "Martin Scorsese", 
+    "stars": [
+        "Robert De Niro", 
+        "Ray Liotta", 
+        "Joe Pesci"
+    ], 
+    "genre": [
+        "Policier", 
+        "Judiciaire"
+    ],
+    "rate": 9.5, 
+    "nationality": "Américain",
+    "description": "Depuis sa plus tendre enfance, Henry Hill, né d'un père irlandais et d'une mère sicilienne, veut devenir gangster et appartenir à la Mafia. Adolescent dans les années cinquante, il commence par travailler pour le compte de Paul Cicero et voue une grande admiration pour Jimmy Conway, qui a fait du détournement de camions sa grande spécialité. Lucide et ambitieux, il contribue au casse des entrepôts de l'aéroport d'Idlewild et épouse Karen, une jeune Juive qu'il trompe régulièrement. Mais son implication dans le trafic de drogue le fera plonger... "
+}
